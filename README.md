@@ -1,3 +1,13 @@
+# Platform
+
+Platform is a blog application made with **Next JS , Tailwind CSS and GraphQL CMS**. It is completely responsive. 
+
+**(Live Demo - https://platform-wine.vercel.app/   )**
+
+![Screenshot (58)](https://user-images.githubusercontent.com/66476812/140921617-2b7eeb0e-ff0a-4bba-8dce-3aa8d2d71eb7.png)
+
+**Explore the application on the live demo link and stay tuned for updates. If you find this worth it, feel free to give this repo a star.⭐⭐** 
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
