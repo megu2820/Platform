@@ -4,6 +4,13 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},
+    safelist: [
+      'bg-blue-500',
+      'text-center',
+      'hover:opacity-100',
+
+      'lg:text-right',
+    ]
   },
   variants: {
     extend: {},
